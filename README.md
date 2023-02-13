@@ -25,17 +25,20 @@ En concreto, el contenido de este repositorio es una recopilación de los trabaj
 * Bravo, F., Ordóñez, A. C. (2017). SIMANFOR: Avances y nuevas funcionalidades. *Actas Del 7º Congreso Forestal Español, Plasencia*. [Acceso al documento](https://www.congresoforestal.es/fichero.php?t=41725&#38;i=5638&#38;m=2185)
 * De La Parra Peral, B., Oria De Rueda, J. A., Ordóñez, A. C., Bravo, F., Olaizola, J., Herrero De Aza, C. (2017). Simulación de la productividad de setas bajo distintos escenarios selvícolas en la plataforma SIMANFOR. *Actas Del 7º Congreso Forestal Español, Plasencia*. [Acceso al documento](https://www.congresoforestal.es/fichero.php?t=41725&#38;i=5787&#38;m=2185)
 * Martín Ariza, A., Bravo, F., Ordóñez, A. C. (2017). Evaluación de alternativas selvícolas para el almacenamiento de carbono en los ecosistemas forestales de Pinus nigra Arnold. *Actas Del 7º Congreso Forestal Español, Plasencia*. [Acceso al documento](https://www.congresoforestal.es/fichero.php?t=41725&#38;i=5806&#38;m=2185)
+* Michalakopoulos, S., Vázquez-Veloso, A., Ordóñez, C., & Bravo, F. (2023). SIMANFOR v.3.0. *XVIIth Young Researchers Meeting on Conservation and Sustainable Use of Forest Systems*. Presentación oral.
 * Rodríguez de Prado, D., Vázquez-Veloso, A., Quian, Y.F., Ruano, I., Bravo, F., Herrero De Aza, C. (2022). Can mixed forests sequester more CO2 than pure forests in future climate scenarios? A case study of Pinus sylvestris combinations in Spain. European Journal of Forest Research. [Acceso al documento](https://doi.org/10.1007/s10342-022-01507-y)
 * Vázquez Veloso, A. (2021). *Evaluación y validación de los modelos de crecimiento forestal IBERO-PT e IBERO-PS*. Trabajo fin de Máster. [Acceso al documento](https://uvadoc.uva.es/bitstream/handle/10324/49344/TFM-L531.pdf?sequence=1&#38;isAllowed=n)
+* Vázquez-Veloso, A., Michalakopoulos, S., Ordóñez, C., Bravo, F. (2023). SMARTELO app: an Android app to plan your harvests. *XVIIth Young Researchers Meeting on Conservation and Sustainable Use of Forest Systems*. Acceso al póster [aquí](http://dx.doi.org/10.13140/RG.2.2.27928.06408)
 * Vázquez-Veloso, A., Pando, V., Ordóñez Alonso, Á. C., Bravo, F. (2022). Evaluación y validación de los modelos de crecimiento forestal IBERO-PT e IBERO-PS para su implementación en SIMANFOR. *8º Congreso Forestal Español (Póster). Lleida, España*. Acceso al [documento](https://8cfe.congresoforestal.es/sites/default/files/actas/8CFE-1015.pdf) y al [póster](https://www.researchgate.net/publication/362432023_Evaluacion_y_validacion_de_los_modelos_de_crecimiento_forestal_IBERO-PT_e_IBERO-PS_para_su_implementacion_en_SIMANFOR)
-
 * Vázquez-Veloso, A., Ordóñez Alonso, Á. C., Bravo, F. (2022). Simulación de la productividad de recursos no maderables (hongos y piñón) bajo diferentes escenarios selvícolas utilizando SIMANFOR. *8º Congreso Forestal Español (Comunicación Oral). Lleida, España*. [Acceso al documento](https://8cfe.congresoforestal.es/sites/default/files/actas/8CFE-1017.pdf)
+
 
 ## Otros repositorios de interés
 
 *   [Escenarios en SIMANFOR](https://github.com/simanfor/escenarios)
 *   [Introducción a SIMANFOR](https://github.com/simanfor/introduccion)
 *   [Inventarios en SIMANFOR](https://github.com/simanfor/inventarios)
+*   [Manual de uso de SIMANFOR](https://github.com/simanfor/manual)
 *   [Modelos en SIMANFOR](https://github.com/simanfor/modelos)
 *   [Resultados de simulación en SIMANFOR](https://github.com/simanfor/resultados)
 *   [Web de SIMANFOR](https://github.com/simanfor/web)
