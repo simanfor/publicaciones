@@ -27,7 +27,7 @@ Specifically, the content of this repository is a compilation of research works 
 
 * Bravo, F., Conejo, R. G., Ordóñez, A. C., & Ruiz, J. L. S. (2017). TreeCollect. Aplicación móvil para la toma de datos forestales integrables en SIMANFOR. Actas del 7º Congreso Forestal Español, Plasencia. [File access](https://www.congresoforestal.es/fichero.php?t=41725&i=5688&m=2185)
 * Bravo, F., & Ordóñez, A. C. (2017). SIMANFOR: Avances y nuevas funcionalidades. Actas del 7º Congreso Forestal Español, Plasencia. [File access](https://www.congresoforestal.es/fichero.php?t=41725&i=5638&m=2185)
-* Bravo, F., Ordóñez, C., Vázquez-Veloso, A., & Michalakopoulos, S. (2023). Forest stand simulations in the cloud: Use of the IBERO growth model in the SIMANFOR Decision Support System. Manuscript in preparation.
+* Bravo, F., Ordóñez, C., Vázquez-Veloso, A., & Michalakopoulos, S. (2025). SIMANFOR cloud Decision Support System: Structure, content, and applications. Ecological Modelling, 499, 110912. https://doi.org/10.1016/j.ecolmodel.2024.110912
 * Bravo, F., Rodríguez, F., Ordóñez, A. C., Cartagena, M. B., Lizarralde, I., Río, M. D., Calama, R., & Vázquez, J. (2009). SIMANFOR: Herramienta libre para la simulación de sistemas selvícolas. Actas del 5º Congreso Forestal Español, Ávila. [File access](https://www.congresoforestal.es/fichero.php?t=41725&i=133&m=2185)
 * Bravo, F., Rodriguez, F., & Ordóñez, C. (2012). A web-based application to simulate alternatives for sustainable forest management: SIMANFOR. Forest Systems, 21(1), 4. [File access](https://doi.org/10.5424/fs/2112211-01953)
 * Bravo, F., Rodríguez, F., Ordóñez, C., Broto, M., Lizarralde, I., Ruano, I., Río, M. D., & Calama, R. (2010). Simanfor: Aplicación web para la simulación de alternativas selvıcolas. Divulgación 1er. Trimestre, (100). [File access](https://d1wqtxts1xzle7.cloudfront.net/46199912/Simanfor_aplicacin_web_para_la_simulacin20160603-19644-1uf4m81-with-cover-page-v2.pdf?Expires=1660729654&Signature=Mqy6rSdrjAn6Uy3Ze7lgOiin4AgfkDohzDQQGJUW9J1jyukM7Thb0f9uADf~aAPptCuRoXW9R7Xv9blSAgWIoLfUQ8z2Qg2rRyyBBneppWuMr0WjWCNx56UJFPKhni8RkWCDyiRk0cEr0i6zLndJFSZPS~i3lK5ztY2B9VHclgWZlmsmC3MSeGVlKUoWvLPXIhpRG~XkbjCyyx5V05bmLFHXZT1HLrai8na-fBk9QsCZQJPnWC30zhGS6EbOFBDvNwBZu6cdI8Oq69GkNzBbaJlhkx-ByGS3jrwfGcmQ85nLC8NJfRbvaKmwdGIZNI3CGMWPiUHHaww8tnEl7t9Cqw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
@@ -92,31 +92,18 @@ Specifically, the content of this repository is a compilation of research works 
 
 The use of SIMANFOR should be cited as follows:
 
-:es: **Referencia en español:**
+Bravo, F., Ordóñez, C., Vázquez-Veloso, A., & Michalakopoulos, S. (2025). SIMANFOR cloud Decision Support System: Structure, content, and applications. Ecological Modelling, 499, 110912. https://doi.org/10.1016/j.ecolmodel.2024.110912
 
-*SIMANFOR (**año**). Sistema de apoyo para la simulación de alternativas de manejo forestal sostenible. Recuperado el **día** de **mes** de **año** en https://www.simanfor.es*
-
-***Ejemplo***:
-
-*SIMANFOR (2024). Sistema de apoyo para la simulación de alternativas de manejo forestal sostenible. Recuperado el 01 de enero de 2024 en https://www.simanfor.es*
-
-🇬🇧 **Reference in english:**
-
-*SIMANFOR (**year**). Support system for the simulation of sustainable forest management alternatives. Accessed **day** **month** **year** in https://www.simanfor.es*
-
-***Example***:
-
-*SIMANFOR (2024). Support system for the simulation of sustainable forest management alternatives. Accessed 01 January 2024 in https://www.simanfor.es*
-
-Additionally, the use of each model included in the simulator must be cited according to the proposed citation format for each of them, which you can consult in their respective [datasheets](https://github.com/simanfor/modelos).
+In addition, you can cite the models used and the articles where the original equations have been published, have a look at the [sheet](https://github.com/simanfor/modelos) of the corresponding model for more details.
 
 ---
 
 ## :computer: Contributors list
 
-[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv)
-[![](https://github.com/acristo.png?size=50)](https://github.com/acristo)
 [![](https://github.com/Felipe-Bravo.png?size=50)](https://github.com/Felipe-Bravo)
+[![](https://github.com/acristo.png?size=50)](https://github.com/acristo)
+[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv)
+[![](https://github.com/spirosmichalak.png?size=50)](https://github.com/spirosmichalak)
 
 ---
 
