@@ -43,6 +43,8 @@ En concreto, el contenido de este repositorio es una recopilación de los trabaj
 * Vázquez-Veloso, A., Ordóñez, C., & Bravo, F. (2024). Dealing with complex forests: Application of silviculture guidelines to manage irregular Quercus pyrenaica stands. Manuscript in preparation.
 * Vázquez-Veloso, A., Pando, V., Ordóñez, C., & Bravo, F. (2022). Evaluación y validación de los modelos de crecimiento forestal IBERO-PT e IBERO-PS para su implementación en SIMANFOR. 8º Congreso Forestal Español (póster). Lleida, España. [Acceso al manuscrito](https://8cfe.congresoforestal.es/sites/default/files/actas/8CFE-1015.pdf) y [póster](https://www.researchgate.net/publication/362432023_Evaluacion_y_validacion_de_los_modelos_de_crecimiento_forestal_IBERO-PT_e_IBERO-PS_para_su_implementacion_en_SIMANFOR)
 * Vázquez-Veloso, A., Pando, V., Ordóñez, C., & Bravo, F. (2023). Evaluation and validation of forest models: Insight from Mediterranean and scots pine models in Spain. Ecological Informatics, 77, 102246. [Acceso al documento](https://doi.org/10.1016/j.ecoinf.2023.102246)
+* Vázquez-Veloso, A., Ruano, I., & Bravo, F. (2024). Trade-offs and management strategies for ecosystem services in mixed Scots pine and Maritime pine forests. European Journal of Forest Research. https://doi.org/10.1007/s10342-024-01752-3
+
 
 ---
 
