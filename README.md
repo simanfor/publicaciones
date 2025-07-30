@@ -55,7 +55,7 @@ En concreto, el contenido de este repositorio es una recopilación de los trabaj
 - Vázquez-Veloso, A., Ruano, I., & Bravo, F. (2024). Trade-offs and management strategies for ecosystem services in mixed Scots pine and Maritime pine forests. European Journal of Forest Research. https://doi.org/10.1007/s10342-024-01752-3
 - Vázquez-Veloso, A., Ruano, I., Ordóñez, C., Michalakopoulos, S., & Bravo, F. (2025a). Modeling and simulation: Supporting complex forest management [oral communication]. XIXh Young Researchers Meeting on Conservation and Sustainable Use of Forest Systems. http://dx.doi.org/10.13140/RG.2.2.13936.78081
 - Vázquez-Veloso, A., Yang, S. I., Bullock, B. P., & Bravo, F. (2025b). Nuevas ecuaciones generalizadas de altura-diámetro para las especies forestales españolas [poster]. 9º Congreso Forestal Español. Gijón, España. https://9cfe.congresoforestal.es/wp-content/uploads/2025/9cfe-1569.pdf
-- Vázquez-Veloso, A., Yang, S. I., Bullock, B. P., & Bravo, F. (2025c). One model to rule them all: A nationwide height-diameter model for 91 Spanish forest species. Forest Ecology and Management.
+- Vázquez-Veloso, A., Yang, S.-I., Bullock, B. P., & Bravo, F. (2025c). One model to rule them all: A nationwide height–diameter model for 91 Spanish forest species. Forest Ecology and Management, 595, 122981. https://doi.org/10.1016/j.foreco.2025.122981
 
 ---
 
