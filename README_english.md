@@ -1,28 +1,28 @@
-# Publicaciones de SIMANFOR
+# SIMANFOR Publications
 
 ![simanfor](https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png)
 
 ---
 
-🇪🇸 **Estas viendo el contenido del repositorio en español**  
+🇬🇧 **You are viewing the content of the repository in English**
 
-🇬🇧 *[English version here](./README_english.md)*
-
----
-
-[SIMANFOR](https://www.simanfor.es) es una herramienta de apoyo a la toma de decisiones que permite la simulación de alternativas de gestión forestal.
-
-En concreto, el contenido de este repositorio es una recopilación de los trabajos de investigación donde se ha utilizado la herramienta SIMANFOR.
+🇪🇸 *[Versión en español aquí](./README.md)*
 
 ---
 
-## 📜 Contenido
+[SIMANFOR](https://www.simanfor.es) is a Decision Support System that allows the simulation of forest management alternatives.
 
-* 📚 **SIMANFOR_publicaciones.bib**: archivo .bib que contiene las referencias de las publicaciones que se exponen en el siguiente apartado
+Specifically, the content of this repository is a compilation of research works where the SIMANFOR tool has been used.
 
 ---
 
-## 📚 Publicaciones
+## 📜 Content
+
+* 📚 **SIMANFOR_publicaciones.bib**: a .bib file containing references to the publications listed in the following section
+
+---
+
+## 📚 Publications
 
 
 - Bravo F, 2005. Dinámica de rodales de pino negral (*Pinus pinaster* Ait.) en el Sistema Ibérico Meridional: Estructura genética, regeneración y dinámica forestal. Informe final del proyecto AGL-2001-1780.
@@ -35,20 +35,20 @@ En concreto, el contenido de este repositorio es una recopilación de los trabaj
 - Bravo F, Ordóñez C, Vázquez-Veloso A, Michalakopoulos S, 2025a. SIMANFOR cloud Decision Support System: Structure, content, and applications. *Ecological Modelling*. 499:110912. [DOI: 10.1016/j.ecolmodel.2024.110912](https://doi.org/10.1016/j.ecolmodel.2024.110912)
 - Bravo F, Ordóñez C, Vázquez-Veloso A, Michalakopoulos S, 2025b. SIMANFOR: herramienta renovada para la toma de decisiones forestales en el siglo XXI. In: *Actas del 9º Congreso Forestal Español*. Gijón (Spain). [Actas CFE (PDF)](https://9cfe.congresoforestal.es/wp-content/uploads/2025/9cfe-1566.pdf)
 - Giménez-García JM, Vega-Gorgojo G, Ordóñez C, Crespo-Lera N, Bravo F, 2024. Improving availability and utilization of forest inventory and land use map data using Linked Open Data. *Front. For. Glob. Change*. 7. [DOI: 10.3389/ffgc.2024.1329812](https://doi.org/10.3389/ffgc.2024.1329812)
-- Gómez-Carrión R, 2024. SIMANFOR V2: Desarrollo de una versión mejorada del portal de simulación de gestión forestal SIMANFOR. Trabajo de Fin de Grado, Universidad de Valladolid. [uvadoc (PDF)](https://uvadoc.uva.es/bitstream/handle/10324/71367/TFG-G6919.pdf?sequence=1)
-- González Manzano J, 2025. Optimización del potencial productivo de biomasa para fines energéticos en la Sierra de Codés mediante modelización selvícola con SIMANFOR. Trabajo de Fin de Grado, Universidad de Valladolid. [uvadoc](https://uvadoc.uva.es/handle/10324/76298)
+- Gómez-Carrión R, 2024. SIMANFOR V2: Desarrollo de una versión mejorada del portal de simulación de gestión forestal SIMANFOR. Bachelor's thesis, Universidad de Valladolid. [uvadoc (PDF)](https://uvadoc.uva.es/bitstream/handle/10324/71367/TFG-G6919.pdf?sequence=1)
+- González Manzano J, 2025. Optimización del potencial productivo de biomasa para fines energéticos en la Sierra de Codés mediante modelización selvícola con SIMANFOR. Bachelor's thesis, Universidad de Valladolid. [uvadoc](https://uvadoc.uva.es/handle/10324/76298)
 - Herrero de Aza C et al., 2025. Create simulation and management models to predict and evaluate future scenarios of ecosystem services based on different variables and management actions. In: *XIXh Young Researchers Meeting on Conservation and Sustainable use of Forest Systems*. Palencia (Spain).
 - Martín Ariza A, Bravo F, Ordóñez AC, 2017. Evaluación de alternativas selvícolas para el almacenamiento de carbono en los ecosistemas forestales de *Pinus nigra* Arnold. In: *Actas del 7º Congreso Forestal Español*. Plasencia (Spain). [Actas CFE](https://www.congresoforestal.es/fichero.php?t=41725&i=5806&m=2185)
-- Mateu Fernández R, 2025. Análisis técnico de alternativas y propuesta selvícola para la fijación de carbono en rebollares de monte bajo en Castilla y León. Trabajo de Fin de Grado, Universidad de Valladolid.
+- Mateu Fernández R, 2025. Análisis técnico de alternativas y propuesta selvícola para la fijación de carbono en rebollares de monte bajo en Castilla y León. Bachelor's thesis, Universidad de Valladolid.
 - Mateu R, Vázquez-Veloso A, Bravo F, 2025. Management strategies for enhancing carbon sequestration in *Quercus pyrenaica* stands: a case study in Castilla and Leon. In: *XIXh Young Researchers Meeting on Conservation and Sustainable use of Forest Systems*. Palencia (Spain). [Vídeo / Presentación](https://youtu.be/_WHCNEGXjOM?si=pOKS2U2SkEV4y4uz)
 - Michalakopoulos S, Vázquez-Veloso A, Ordóñez C, Bravo F, 2023. SIMANFOR v.3.0. In: *XVIIth Young Researchers Meeting on Conservation and Sustainable use of Forest Systems*. University of Valladolid: Palencia, Spain.
 - Open Foris, 2025. Open Foris Arena. [Web Oficial](https://openforis.org/solutions/arena/)
-- Pascual-Arranz A, 2012. Elaboración de un nuevo modelo selvícola de gestión en el monte Pinar Grande (Soria). Trabajo de Fin de Máster, Universidad de Valladolid.
+- Pascual-Arranz A, 2012. Elaboración de un nuevo modelo selvícola de gestión en el monte Pinar Grande (Soria). Master's thesis, Universidad de Valladolid.
 - Peral BDLP, Rueda JAOD, Ordóñez AC, Bravo F, Olaizola J, Aza CHD, 2017. Simulación de la productividad de setas bajo distintos escenarios selvícolas en la plataforma SIMANFOR. In: *Actas del 7º Congreso Forestal Español*. Plasencia (Spain). [Actas CFE](https://www.congresoforestal.es/fichero.php?t=41725&i=5787&m=2185)
 - Porto-Rodríguez JC, Vázquez-Veloso A, Sánchez-Pellicer T, Blázquez-Casado A, Bravo F, Ruano I, 2025. Impacto de la gestión forestal en la productividad de bosques mixtos de *Quercus pyrenaica* en Castilla y León. In: *Actas del 9º Congreso Forestal Español*. Gijón (Spain). [Actas CFE (PDF)](https://9cfe.congresoforestal.es/wp-content/uploads/2025/9cfe-1701.pdf)
 - Rodríguez de Prado D, Bravo F, Ordoñez C, 2018. Smartelo, una herramienta informática para el cálculo, gestión y presentación de datos en parcelas forestales. In: *Actas del 7º Congreso Forestal Español*. Plasencia (Spain). [Actas CFE](http://secforestales.org/publicaciones/index.php/congresos_forestales/article/view/19037/18761)
 - SIMANFOR, 2025. Repositorio oficial de SIMANFOR en GitHub. [GitHub](https://github.com/simanfor)
-- Vázquez-Veloso A, 2021. Evaluación y validación de los modelos de crecimiento forestal IBEROPT e IBEROPS. Trabajo de Fin de Máster, Universidad de Valladolid. [uvadoc (PDF)](https://uvadoc.uva.es/bitstream/handle/10324/49344/TFM-L531.pdf?sequence=1&isAllowed=n)
+- Vázquez-Veloso A, 2021. Evaluación y validación de los modelos de crecimiento forestal IBEROPT e IBEROPS. Master's thesis, Universidad de Valladolid. [uvadoc (PDF)](https://uvadoc.uva.es/bitstream/handle/10324/49344/TFM-L531.pdf?sequence=1&isAllowed=n)
 - Vázquez-Veloso A, Ordóñez C, Bravo F, 2022a. Simulación de la productividad de recursos no maderables (hongos y piñón) bajo diferentes escenarios selvícolas utilizando SIMANFOR. In: *Actas del 8º Congreso Forestal Español*. Lleida (Spain). [Actas CFE (PDF)](https://8cfe.congresoforestal.es/sites/default/files/actas/8CFE-1017.pdf)
 - Vázquez-Veloso A, Pando V, Ordóñez C, Bravo F, 2022b. Evaluación y validación de los modelos de crecimiento forestal IBERO-PT e IBERO-PS para su implementación en SIMANFOR. In: *Actas del 8º Congreso Forestal Español*. Lleida (Spain). [Actas CFE (PDF)](https://8cfe.congresoforestal.es/sites/default/files/actas/8CFE-1015.pdf)
 - Vázquez-Veloso A, Michalakopoulos S, Ordóñez C, Bravo F, 2023. SMARTELO app: an Android app to plan your harvests. In: *XVIIth Young Researchers Meeting on Conservation and Sustainable use of Forest Systems*. University of Valladolid: Palencia, Spain. [DOI: 10.13140/RG.2.2.27928.06408](https://doi.org/10.13140/RG.2.2.27928.06408)
@@ -64,11 +64,11 @@ En concreto, el contenido de este repositorio es una recopilación de los trabaj
 
 ---
 
-## ℹ️ Más información
+## ℹ️ More information
 
-Para más contenidos de SIMANFOR, vídeos, publicaciones y cómo citar, visita:
+For more SIMANFOR content, videos, publications and how to cite, visit:
 
-* 🔗 [Más información sobre SIMANFOR](https://github.com/simanfor/.github/blob/main/docs/more_info_spanish.md)
+* 🔗 [More information about SIMANFOR](https://github.com/simanfor/.github/blob/main/docs/more_info_english.md)
 
 ---
 
